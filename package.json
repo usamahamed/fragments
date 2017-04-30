@@ -1,0 +1,23 @@
+{
+  "name": "fragments",
+  "version": "1.0.0",
+  "description": "Code Chanllange",
+  "main": "fragments/code/findOddAmount.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  },
+ 
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript6",
+    "unit",
+    "test",
+    "jasmine"
+  ],
+  "author": "Usama Hamed",
+  "license": "ISC"
+}
